@@ -1,0 +1,31 @@
+body {
+     /*color de texto*/
+     color:rgb(80, 40, 11);
+     /*fondo*/
+     background-color:rgb(166, 184, 157);
+     /*tipo letra*/
+     font-family: 'PT Serif', serif;
+}
+
+h1 {
+    color:brown
+}
+
+a {
+    color:rgb(255, 255, 255);
+
+}
+
+img{
+    width: 430px;
+    height: 270px;
+    padding: 10px; /*separación entre imagenes*/
+    margin: 10px;
+
+}
+
+footer{
+    background-color:brown;
+    color:black;
+
+}
